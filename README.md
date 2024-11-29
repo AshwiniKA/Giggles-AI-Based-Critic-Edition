@@ -41,6 +41,7 @@ The app will open a GUI window where you can enter a movie/show name. Click Gene
 1. Provide Show or Movie Name: "Barbie"
 2. Generate Content: The app generates a short funny review for the movie
 3. Play Audio: The content is converted to speech and can be played using the Play Audio button.
-<img width="776" alt="Screenshot 2024-11-28 at 5 43 55 PM" src="https://github.com/user-attachments/assets/33bd05a5-0fa5-480e-8839-6cba0e313a03">
 <img width="778" alt="Screenshot 2024-11-28 at 5 43 41 PM" src="https://github.com/user-attachments/assets/6f781f82-2e65-4d4f-9c10-6ce88c87fddc">
+<img width="776" alt="Screenshot 2024-11-28 at 5 43 55 PM" src="https://github.com/user-attachments/assets/33bd05a5-0fa5-480e-8839-6cba0e313a03">
+
    
